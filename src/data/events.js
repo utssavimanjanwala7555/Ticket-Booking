@@ -13,10 +13,10 @@ const events = [
 
     {
         id :2,
-        name : "Stand Up Comedy",
-        category : "Comedy",
+        name : "Arijit Singh Live Concert",
+        category : "Music",
         location : "Delhi",
-        date : "25th November 2026",
+        date : "5th November 2026",
         time : "7:00 PM",
         price : "899",
         image : ""
@@ -24,8 +24,8 @@ const events = [
 
     {
         id :3,
-        name : "Stand Up Comedy",
-        category : "Comedy",
+        name : "Sunidhi Chauhan Live Concert",
+        category : "Music",
         location : "Delhi",
         date : "25th November 2026",
         time : "7:00 PM",
@@ -35,34 +35,34 @@ const events = [
 
     {
         id :4,
-        name : "Stand Up Comedy",
-        category : "Comedy",
+        name : "Sufi Night with Rahat Fateh Ali Khan",
+        category : "Music",
         location : "Delhi",
         date : "25th November 2026",
         time : "7:00 PM",
-        price : "899",
+        price : "799",
         image : ""
     },
 
     {
         id :5,
-        name : "Stand Up Comedy",
+        name : "Pranit More : Stand Up Comedy Show",
         category : "Comedy",
         location : "Delhi",
         date : "25th November 2026",
         time : "7:00 PM",
-        price : "899",
+        price : "1299",
         image : ""
     },
 
     {
         id :6,
-        name : "Stand Up Comedy",
-        category : "Comedy",
+        name : "Parul Gulati : TedEx Talk",
+        category : "TedEx Talk",
         location : "Delhi",
         date : "25th November 2026",
         time : "7:00 PM",
-        price : "899",
+        price : "1500",
         image : ""
     }
 
