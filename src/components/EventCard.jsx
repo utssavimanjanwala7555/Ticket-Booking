@@ -1,8 +1,6 @@
 function EventCard({event}) {
     return (
         <>
-            <h1> Ticket Booking System </h1>
-
             <div>
                 <h2> {event.name} </h2>
 
