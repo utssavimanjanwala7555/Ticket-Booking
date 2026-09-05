@@ -1,15 +1,7 @@
-import './App.css'
-import EventCard from "./components/EventCard"
-import events from "./data/events"
+import Events from "./pages/Events";
 
 function App() {
-  
-
-  return (
-  <>
-    <EventCard/>
-  </>
-  )
+  return <Events />;
 }
 
-export default App
+export default App;

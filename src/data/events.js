@@ -8,7 +8,7 @@ const events = [
         date : "25th November 2026",
         time : "7:00 PM",
         price : "899",
-        image : ""
+        image : "null"
     },
 
     {
@@ -19,7 +19,7 @@ const events = [
         date : "5th November 2026",
         time : "7:00 PM",
         price : "899",
-        image : ""
+        image : "null"
     },
 
     {
@@ -30,7 +30,7 @@ const events = [
         date : "25th November 2026",
         time : "7:00 PM",
         price : "899",
-        image : ""
+        image : "null"
     },
 
     {
@@ -41,7 +41,7 @@ const events = [
         date : "25th November 2026",
         time : "7:00 PM",
         price : "799",
-        image : ""
+        image : "null"
     },
 
     {
@@ -52,7 +52,7 @@ const events = [
         date : "25th November 2026",
         time : "7:00 PM",
         price : "1299",
-        image : ""
+        image : "null"
     },
 
     {
@@ -63,7 +63,9 @@ const events = [
         date : "25th November 2026",
         time : "7:00 PM",
         price : "1500",
-        image : ""
+        image : "null"
     }
 
 ]
+
+export default events
