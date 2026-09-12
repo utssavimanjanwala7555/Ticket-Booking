@@ -1,7 +1,7 @@
 import {useState} from 'react'
 import events from "../data/events";
 
-function EventSearchFilters()
+function EventSearchFilters({setDisplayEvents})
 {
     const [category , setCategory] = useState("all");
 
